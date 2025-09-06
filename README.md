@@ -52,4 +52,4 @@ The overview of Dashboard:
 <img width="1303" height="723" alt="image" src="https://github.com/user-attachments/assets/285fb1ed-1b53-46fb-9da2-a8007b59ca56" />
 
 ## "Little About Me"
-### I'm Data Anlayst/Scientist. I enjoy turning row and complex data into clean and actionable insight that help business teams make better data driven decisions.
+### I am Data Analyst/Scientist and I enjoy transforming raw and complex dataset into clean and actionable insight using tools like "SQL", "Python", "Power BI" and "Excel" to help business take better data-driven   decisions.
