@@ -46,4 +46,10 @@ Power BI – Dashboard and data visualization.
 Excel/CSV Dataset – Sales data source.
 
 Data Cleaning & Modeling – Performed before visualization.
+
+The overview of Dashboard:
+
 <img width="1303" height="723" alt="image" src="https://github.com/user-attachments/assets/285fb1ed-1b53-46fb-9da2-a8007b59ca56" />
+
+## "Little About Me"
+### I'm Data Anlayst/Scientist. I enjoy turning row and complex data into clean and actionable insight that help business teams make better data driven decisions.
