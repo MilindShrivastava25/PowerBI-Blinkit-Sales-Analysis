@@ -50,7 +50,8 @@ Data Cleaning & Modeling – Performed before visualization.
 The overview of Dashboard:
 
 
-<img width="1331" height="741" alt="image" src="https://github.com/user-attachments/assets/de3ed966-fccd-4cf6-8bb1-f9b8f356e568" />
+
+<img width="1336" height="747" alt="image" src="https://github.com/user-attachments/assets/5261e3e2-3ae6-45c1-b289-328c46424936" />
 
 
 ## "Little About Me"
