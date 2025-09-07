@@ -49,7 +49,9 @@ Data Cleaning & Modeling – Performed before visualization.
 
 The overview of Dashboard:
 
-<img width="1303" height="723" alt="image" src="https://github.com/user-attachments/assets/285fb1ed-1b53-46fb-9da2-a8007b59ca56" />
+
+<img width="1331" height="741" alt="image" src="https://github.com/user-attachments/assets/de3ed966-fccd-4cf6-8bb1-f9b8f356e568" />
+
 
 ## "Little About Me"
 ### I am Data Analyst/Scientist and I enjoy transforming raw and complex dataset into clean and actionable insight using tools like "SQL", "Python", "Power BI" and "Excel" to help business take better data-driven   decisions.
